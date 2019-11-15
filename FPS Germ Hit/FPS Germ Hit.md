@@ -1,9 +1,4 @@
 
-
-[TOC]
-
-
-
 # 摘要
 
 > 游戏，作为大众化娱乐的方式之一，已经越来越受到各年龄段的人们的欢迎。而其中3D游戏也是技术含量比较高的一种。Unity 3D作为一种2D/3D游戏开发引擎，凭借其在音频，图像，物理等各种引擎上的强大功能，深受游戏开发者和爱好者的喜爱。
@@ -76,7 +71,7 @@
 
 Unity编辑器的基本熟练
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/fc83ce60-0fdf-4daf-acdf-68820220fd54_1.3_UnityEditor.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvZmM4M2NlNjAtMGZkZi00ZGFmLWFjZGYtNjg4MjAyMjBmZDU0XzEuM19Vbml0eUVkaXRvci5wbmc?x-oss-process=image/format,png)
 
  Unity编辑器有四个主要部分：
 
@@ -94,13 +89,13 @@ Unity编辑器的基本熟练
 
 工具栏包含一系列有用的工具按钮，可帮助您设计和测试游戏。 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/1ef76b39-3c1f-4b67-baff-33e6dd809cb5_1.4_1_FullToolbar.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvMWVmNzZiMzktM2MxZi00YjY3LWJhZmYtMzNlNmRkODA5Y2I1XzEuNF8xX0Z1bGxUb29sYmFyLnBuZw?x-oss-process=image/format,png)
 
 ### 3.1.1 工具栏介绍
 
 **播放按钮**
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/bead5685-7028-46c5-b064-9694e1a1a809_1.4_2_PlayButtons.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvYmVhZDU2ODUtNzAyOC00NmM1LWIwNjQtOTY5NGUxYTFhODA5XzEuNF8yX1BsYXlCdXR0b25zLnBuZw?x-oss-process=image/format,png)
 
 **玩** 
 
@@ -118,13 +113,13 @@ Unity编辑器的基本熟练
 
 #### I. 操作对象
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/67553910-3036-4041-8292-5e59e8e87dcf_1.4_3_Toolbar.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvNjc1NTM5MTAtMzAzNi00MDQxLTgyOTItNWU1OWU4ZTg3ZGNmXzEuNF8zX1Rvb2xiYXIucG5n?x-oss-process=image/format,png)
 
 这些工具可在“场景”视图中移动和操纵GameObject。您可以单击按钮将其激活，也可以使用快捷键。
 
 **手工具**
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/089a7967-1983-4ffe-83db-b7e1442be7ee_1.4_4_HandTool.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvMDg5YTc5NjctMTk4My00ZmZlLTgzZGItYjdlMTQ0MmJlN2VlXzEuNF80X0hhbmRUb29sLnBuZw?x-oss-process=image/format,png)
 
 快捷键：Q
 
@@ -132,7 +127,7 @@ Unity编辑器的基本熟练
 
 **移动工具**
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/8f526a27-2637-4271-a151-3f3c8034d01f_1.4_4_MoveTool.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvOGY1MjZhMjctMjYzNy00MjcxLWExNTEtM2YzYzgwMzRkMDFmXzEuNF80X01vdmVUb29sLnBuZw?x-oss-process=image/format,png)
 
 快捷方式：W
 
@@ -140,7 +135,7 @@ Unity编辑器的基本熟练
 
 **旋转工具**
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/9eb2490c-22e2-4701-b834-94d98f23f78e_1.4_4_RotateTool.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvOWViMjQ5MGMtMjJlMi00NzAxLWI4MzQtOTRkOThmMjNmNzhlXzEuNF80X1JvdGF0ZVRvb2wucG5n?x-oss-process=image/format,png)
 
 快捷键：E
 
@@ -148,7 +143,7 @@ Unity编辑器的基本熟练
 
 **比例工具**
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/fd7601f6-f198-40a0-825d-050a5d1436b3_1.4_4_ScaleTool.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvZmQ3NjAxZjYtZjE5OC00MGEwLTgyNWQtMDUwYTVkMTQzNmIzXzEuNF80X1NjYWxlVG9vbC5wbmc?x-oss-process=image/format,png)
 
 快捷键：R
 
@@ -156,7 +151,7 @@ Unity编辑器的基本熟练
 
 **矩形转换工具**
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/a5fb9c67-8a7c-4cea-932b-aab63fc06df1_1.4_4_RectTransform.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvYTVmYjljNjctOGE3Yy00Y2VhLTkzMmItYWFiNjNmYzA2ZGYxXzEuNF80X1JlY3RUcmFuc2Zvcm0ucG5n?x-oss-process=image/format,png)
 
 捷径：T
 
@@ -164,7 +159,7 @@ Unity编辑器的基本熟练
 
 **旋转，移动或缩放**
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/86d7a1fe-c59c-49cf-86a1-9dd3b69ddd1a_1.4_4_RMSTool.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvODZkN2ExZmUtYzU5Yy00OWNmLTg2YTEtOWRkM2I2OWRkZDFhXzEuNF80X1JNU1Rvb2wucG5n?x-oss-process=image/format,png)
 
 捷径：Y
 
@@ -198,7 +193,7 @@ Unity编辑器的基本熟练
 
 打开场景后，就可以看到模型了。选择工具栏中的“ **播放”** 按钮开始。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/3be11de9-e886-4c23-84c9-a90d6f7462b0_1.5.2_2_PlayButtons.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvM2JlMTFkZTktZTg4Ni00YzIzLTg0YzktYTkwZDZmNzQ2MmIwXzEuNS4yXzJfUGxheUJ1dHRvbnMucG5n?x-oss-process=image/format,png)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191110175515279.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzIzMjk1NQ==,size_16,color_FFFFFF,t_70)
 
@@ -218,7 +213,7 @@ Unity编辑器的基本熟练
 > - 消灭细菌会给你点药，并消耗药弹。您可以在屏幕的左上角看到您的得分，并在右下角看到武器的剩余药量
 > - 当你完成游戏测试员，按**逃逸**键盘上，让您的鼠标光标回来。 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190617/learn/images/89dcead2-5672-42fa-9a08-b6ded2da0f1e_1.5.2_3_ExampleSceneScreenshot.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYxNy9sZWFybi9pbWFnZXMvODlkY2VhZDItNTY3Mi00MmZhLTlhMDgtYjZkZWQyZGEwZjFlXzEuNS4yXzNfRXhhbXBsZVNjZW5lU2NyZWVuc2hvdC5wbmc?x-oss-process=image/format,png)
 
 
 
@@ -246,27 +241,27 @@ Unity编辑器的基本熟练
 
 **1.**   在“ **项目”窗口中**，转到“ *资产/创建者套件-FPS / Prefabs / Targets”* 。选择**GermSlimeTarget** 预制件。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/0e367351-2c51-4896-9da2-fb9cdf180d17_2.3.1_GermSlimeTarget.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvMGUzNjczNTEtMmM1MS00ODk2LTlkYTItZmI5Y2RmMTgwZDE3XzIuMy4xX0dlcm1TbGltZVRhcmdldC5wbmc?x-oss-process=image/format,png)
 
  **2.**   将**GermSlimeTarget** 预制件从“项目”窗口拖动到“场景”视图中。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/bc711b9f-a3fb-4b2c-87ab-aa29430af17a_2.3.2_DragGermSlimeTarget_LQ.gif)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvYmM3MTFiOWYtYTNmYi00YjJjLTg3YWItYWEyOTQzMGFmMTdhXzIuMy4yX0RyYWdHZXJtU2xpbWVUYXJnZXRfTFEuZ2lm)
 
 现在，在左侧的“层次结构”窗口中看到GermSlime。已成功在场景中放置了一个新的GameObject。 
 
 **3.**   现在，将GermSlime移到新位置。首先，在工具栏中选择“ **移动工具**”。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/b8db59c8-e336-48f9-ac54-74cd80498c4b_2.3.3_1_MoveTool.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvYjhkYjU5YzgtZTMzNi00OGY5LWFjNTQtNzRjZDgwNDk4YzRiXzIuMy4zXzFfTW92ZVRvb2wucG5n?x-oss-process=image/format,png)
 
 能够看到覆盖在新目标上的三个箭头（蓝色，绿色和红色）。 
 
  **4.**   首先**，**单击**绿色箭头**并向上拖动以更改GermSlimeTarget的垂直位置。这会将其抬离房间的地板。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/e676d296-bef3-41c9-b951-ddcf70e6ec1a_2.3.4_DragVertical.gif)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvZTY3NmQyOTYtYmVmMy00MWM5LWI5NTEtZGRjZjcwZTZlYzFhXzIuMy40X0RyYWdWZXJ0aWNhbC5naWY)
 
 **5.**   单击并拖动**红色和蓝色箭头**以更改GermSlimeTarget的水平位置。将其放在房间中的任何位置。 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/3681434c-ccbb-4084-b360-c75f5d48bf5c_2.3.5_DragHorizontal.gif)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvMzY4MTQzNGMtY2NiYi00MDg0LWIzNjAtYzc1ZjVkNDhiZjVjXzIuMy41X0RyYWdIb3Jpem9udGFsLmdpZg)
 
 还可以选择三个移动箭头中间的立方体，以一次在多个方向上移动GameObject。
 
@@ -282,17 +277,17 @@ Unity编辑器的基本熟练
 
 **1.**   在“场景”视图中，单击GermSlimeTarget。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/88ff7f9d-f523-40f2-acd5-d3434a6988b7_2.4.1_1_GermInspector.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvODhmZjdmOWQtZjUyMy00MGYyLWFjZDUtZDM0MzRhNjk4OGI3XzIuNC4xXzFfR2VybUluc3BlY3Rvci5wbmc?x-oss-process=image/format,png)
 
  “ **检查器”** **窗口**现在将显示目标的设置。  “检查器”窗口显示了连接到GameObject的所有**组件**。组件用于在Unity中向GameObjects添加不同的功能。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/73b4a695-1b69-4daa-a681-ea30b80dd414_2.4.1_2_GermSlimeTransform.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvNzNiNGE2OTUtMWI2OS00ZGFhLWE2ODEtZWEzMGI4MGRkNDE0XzIuNC4xXzJfR2VybVNsaW1lVHJhbnNmb3JtLnBuZw?x-oss-process=image/format,png)
 
 
 
  **2.**   更改目标的健康状况和积分值。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/6c6ecc5b-cb70-4204-9ffe-09b25e765c45_2.4.2_TargetScript.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvNmM2ZWNjNWItY2I3MC00MjA0LTlmZmUtMDliMjVlNzY1YzQ1XzIuNC4yX1RhcmdldFNjcmlwdC5wbmc?x-oss-process=image/format,png)
 
 增加其**健康状况**将使细菌更难被破坏，而减少其**健康状况**将使其变得更容易。销毁细菌时，设置的**点值**将显示在“场景”视图的左上角。  
 
@@ -310,21 +305,21 @@ Unity编辑器的基本熟练
 
 **1.**   在**Project窗口中**，转到*Assets / Creator Kit-FPS / Art / Models / Characters，*然后选择**GermSpike** 资产。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190710/learn/images/e878abb4-7415-4457-b02c-82d96cda0829_germspike.PNG)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDcxMC9sZWFybi9pbWFnZXMvZTg3OGFiYjQtNzQxNS00NDU3LWIwMmMtODJkOTZjZGEwODI5X2dlcm1zcGlrZS5QTkc?x-oss-process=image/format,png)
 
  **2.**   将模型拖放到“ **场景”视图中**。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/a79aceb3-5ab2-4884-8423-8d3353ccaad6_2.4.6_2_GermSphere.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvYTc5YWNlYjMtNWFiMi00ODg0LTg0MjMtOGQzMzUzY2NhYWQ2XzIuNC42XzJfR2VybVNwaGVyZS5wbmc?x-oss-process=image/format,png)
 
  **3.**   确保已选择对象，然后查看“检查器”窗口。您现在应该只看到一个**Transform** 组件。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190520/learn/images/9c340194-3128-4ef3-824b-860c2408642b_FPS_GermSpike_Inspector_Update.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUyMC9sZWFybi9pbWFnZXMvOWMzNDAxOTQtMzEyOC00ZWYzLTgyNGItODYwYzI0MDg2NDJiX0ZQU19HZXJtU3Bpa2VfSW5zcGVjdG9yX1VwZGF0ZS5wbmc?x-oss-process=image/format,png)
 
  **4.**   单击**添加组件**按钮，然后开始在搜索栏中输入“ **Rigidbody”** 。
 
 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/b94f46e6-9eb4-44c3-aec7-354cf9415627_2.5.4_RigidbodyComponent.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvYjk0ZjQ2ZTYtOWViNC00NGMzLWFlYzctMzU0Y2Y5NDE1NjI3XzIuNS40X1JpZ2lkYm9keUNvbXBvbmVudC5wbmc?x-oss-process=image/format,png)
 
  
 
@@ -335,7 +330,7 @@ Unity编辑器的基本熟练
 - 禁用**使用重力**复选框
 - 启用**是运动学**复选框
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/9f069948-a0ad-4bbb-86a7-4b44d4d85331_2.5.5_RigidbodyCheckbox.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvOWYwNjk5NDgtYTBhZC00YmJiLTg2YTctNGI0NGQ0ZDg1MzMxXzIuNS41X1JpZ2lkYm9keUNoZWNrYm94LnBuZw?x-oss-process=image/format,png)
 
  
 
@@ -347,13 +342,13 @@ Unity编辑器的基本熟练
 
 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/d00b072e-8ff2-48f6-9f7c-2be876b92d51_2.5.6_1_SphereColliderComponent.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvZDAwYjA3MmUtOGZmMi00OGY2LTlmN2MtMmJlODc2YjkyZDUxXzIuNS42XzFfU3BoZXJlQ29sbGlkZXJDb21wb25lbnQucG5n?x-oss-process=image/format,png)
 
  
 
 一**球撞机**将确保胚芽可击; 有时称为“ hitbox”。在“场景”视图中，对撞机将作为细菌周围的绿色球体。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/20dc3b46-2c03-498b-8af4-ac297d09ebb4_2.5.6_2_ShereColliderScene.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvMjBkYzNiNDYtMmMwMy00OThiLThhZjQtYWMyOTdkMDllYmI0XzIuNS42XzJfU2hlcmVDb2xsaWRlclNjZW5lLnBuZw?x-oss-process=image/format,png)
 
  **7.**   在**中心**字段中，将**Y** 设置为**0.95** 。这将确保对撞机位于细菌的中心，而不是在细菌的下方。 
 
@@ -367,13 +362,13 @@ Unity编辑器的基本熟练
 
 - 单击并向右或向左拖动鼠标以增加或减小点击框的大小。 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/2ea4aac4-99ee-4772-ad08-7d4f4eb5927b_2.5.6_3_RadiusProperty.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvMmVhNGFhYzQtOTllZS00NzcyLWFkMDgtN2Q0ZjRlYjU5MjdiXzIuNS42XzNfUmFkaXVzUHJvcGVydHkucG5n?x-oss-process=image/format,png)
 
  增大对撞机将使细菌更容易被击中，减小对撞机将使其更具挑战性。
 
  **9.**   单击**添加组件**，然后搜索并添加**目标**组件。 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/138d06e3-d1f0-45e9-82ff-73d7cf6bf5af_2.5.7_TargetComponent.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvMTM4ZDA2ZTMtZDFmMC00NWU5LTgyZmYtNzNkN2NmNmJmNWFmXzIuNS43X1RhcmdldENvbXBvbmVudC5wbmc?x-oss-process=image/format,png)
 
  该组件添加了一个自定义脚本，使脚本成为目标。添加完成后，更改目标的“生命值”和“点值”，然后再次测试游戏。完成后，请确保保存更改。
 
@@ -401,7 +396,7 @@ Unity编辑器的基本熟练
 
 **1.**   在“ **项目”窗口中**，转到“ *资产/创建者套件-FPS / Prefabs / Targets”* 。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/74723e68-aeeb-4891-8a01-fbb3f829917f_2.6.1_PrefabFolder.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvNzQ3MjNlNjgtYWVlYi00ODkxLThhMDEtZmJiM2Y4Mjk5MTdmXzIuNi4xX1ByZWZhYkZvbGRlci5wbmc?x-oss-process=image/format,png)
 
  **2.**   将**GermSpike GameObject** 从“层次结构”窗口拖放到“项目”窗口。
 
@@ -428,21 +423,21 @@ Unity编辑器的基本熟练
 
 **1.**   在“场景”视图中，进行缩小，可以看到当前正在工作的房间被默认的灰色空间包围。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190606/learn/images/ed23cf1f-5a4c-464b-ade8-e3bcebfffc1a_FPS_BRAIN.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYwNi9sZWFybi9pbWFnZXMvZWQyM2NmMWYtNWE0Yy00NjRiLWFkZTgtZTNiY2ViZmZmYzFhX0ZQU19CUkFJTi5wbmc?x-oss-process=image/format,png)
 
 **2.**   在“层次结构”窗口中，选择“ **LevelLayout GameObject”** 。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190606/learn/images/d5d67396-ba83-4567-8a99-1acb693dd583_3.2.2_LevelLayoutGameObject.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYwNi9sZWFybi9pbWFnZXMvZDVkNjczOTYtYmE4My00NTY3LThhOTktMWFjYjY5M2RkNTgzXzMuMi4yX0xldmVsTGF5b3V0R2FtZU9iamVjdC5wbmc?x-oss-process=image/format,png)
 
 执行此操作时，默认的大脑空间周围将出现蓝色球体：
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190606/learn/images/e065043c-6e6d-4c64-a4d3-aaf5ac2d2b83_FPS_BlueSpheresFinal.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYwNi9sZWFybi9pbWFnZXMvZTA2NTA0M2MtNmU2ZC00YzY0LWE0ZDMtYWFmNWFjMmQyYjgzX0ZQU19CbHVlU3BoZXJlc0ZpbmFsLnBuZw?x-oss-process=image/format,png)
 
  这些球体代表“音频混响区”和“音频源”，它们是默认情况下附加到所有房间的组件。球体会妨碍编辑关卡布局，因此您将禁用它们。
 
 **3.**   在“场景”视图的右上角，单击**Gizmos按钮旁边的向下箭头**。 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190606/learn/images/b355d812-4bb5-4a3d-930e-24d5cea23a71_FPS_GizmoArrow.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYwNi9sZWFybi9pbWFnZXMvYjM1NWQ4MTItNGJiNS00YTNkLTkzMGUtMjRkNWNlYTIzYTcxX0ZQU19HaXptb0Fycm93LnBuZw?x-oss-process=image/format,png)
 
 **注意：**单击Gizmos按钮本身将禁用所有Gizmo图标，这不是您需要在此Creator Kit中执行的操作。
 
@@ -451,7 +446,7 @@ Unity编辑器的基本熟练
 - AudioReverbZone
 - 音源
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190606/learn/images/7e6161b9-e8ea-48be-9b5f-d9df5f0b6f97_FPS_RedGizmos.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYwNi9sZWFybi9pbWFnZXMvN2U2MTYxYjktZThlYS00OGJlLTliNWYtZDlkZjVmMGI2Zjk3X0ZQU19SZWRHaXptb3MucG5n?x-oss-process=image/format,png)
 
  就是这样–现在，在“场景”视图中为关卡放置房间和走廊将变得更加容易。  
 
@@ -465,17 +460,17 @@ Unity编辑器的基本熟练
 
 **1.**   在层次结构中，检查是否仍选择了**LevelLayout GameObject** 。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/c8a6d81f-a1db-4f6c-ab74-330b4760f8e5_3.2.2_LevelLayoutGameObject.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvYzhhNmQ4MWYtYTFkYi00ZjZjLWFiNzQtMzMwYjQ3NjBmOGU1XzMuMi4yX0xldmVsTGF5b3V0R2FtZU9iamVjdC5wbmc?x-oss-process=image/format,png)
 
  **2.**   在“检查器”窗口中，找到“ **关卡布局”** 组件。点击**添加**。然后单击“ **走廊组”** 以添加走廊，或**单击“** 室**组”** 以添加“房间”。 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/918b9c95-5c2c-41af-8839-cde044fd8e84_3.2.3_1_EditingLayoutButton.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvOTE4YjljOTUtNWMyYy00MWFmLTg4MzktY2RlMDQ0ZmQ4ZTg0XzMuMi4zXzFfRWRpdGluZ0xheW91dEJ1dHRvbi5wbmc?x-oss-process=image/format,png)
 
 这将显示可选走廊或房间的缩略图：
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190606/learn/images/bafe3bcd-a1c2-445c-8e2d-968f2a5df605_FPS_LL_CorridorGroup.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYwNi9sZWFybi9pbWFnZXMvYmFmZTNiY2QtYTFjMi00NDVjLThlMmQtOTY4ZjJhNWRmNjA1X0ZQU19MTF9Db3JyaWRvckdyb3VwLnBuZw?x-oss-process=image/format,png)
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190606/learn/images/70868dec-abbb-4d74-b9e3-528b0197f835_FPS_LL_RoomGroup.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDYwNi9sZWFybi9pbWFnZXMvNzA4NjhkZWMtYWJiYi00ZDc0LWI5ZTMtNTI4YjAxOTdmODM1X0ZQU19MTF9Sb29tR3JvdXAucG5n?x-oss-process=image/format,png)
 
 
 
@@ -516,17 +511,17 @@ Unity编辑器的基本熟练
 
  **2.**   选择**FatBlob** 预制件。这将充当游戏门的锁。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/0aa1917c-eb3c-40cb-b460-c7971e277f06_3.3.2_FatBlobPrefab.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvMGFhMTkxN2MtZWIzYy00MGNiLWI0NjAtYzc5NzFlMjc3ZjA2XzMuMy4yX0ZhdEJsb2JQcmVmYWIucG5n?x-oss-process=image/format,png)
 
  **3.** 将FatBlog预制件从“项目”窗口拖动到“场景”视图中，将其放置为挡住门口。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/13456d54-3683-42e3-9b71-362fc236e7c5_3.3.3_1_PlaceFatBlob.gif)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvMTM0NTZkNTQtMzY4My00MmUzLTliNzEtMzYyZmMyMzZlN2M1XzMuMy4zXzFfUGxhY2VGYXRCbG9iLmdpZg)
 
 锁的正面标有钥匙名称。
 
 锁尚未分配钥匙： 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/a4c5a514-590a-40b0-a8c3-d90160392e30_3.3.3_2_NoKeyAssigned.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvYTRjNWE1MTQtNTkwYS00MGIwLWE4YzMtZDkwMTYwMzkyZTMwXzMuMy4zXzJfTm9LZXlBc3NpZ25lZC5wbmc?x-oss-process=image/format,png)
 
  **4.**   保存对游戏的更改。
 
@@ -542,17 +537,17 @@ Unity编辑器的基本熟练
 
 **3.**   在检查器中，找到“ **关键”** 组件。在“ **密钥类型”** 字段中，为您的密钥指定一个唯一的名称。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/dca93df9-62e2-455e-a3e1-eaf6784850f4_3.4.3_KeyType.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvZGNhOTNkZjktNjJlMi00NTVlLWEzZTEtZWFmNjc4NDg1MGY0XzMuNC4zX0tleVR5cGUucG5n?x-oss-process=image/format,png)
 
  **4.**   在层次结构中，选择**FatBlob GameObject** 。 
 
 **5.**   在检查器中，找到其“ **锁定”** 组件。使用下拉菜单将“ **密钥类型”** 值设置为您选择的密钥名称。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/6c77f117-1a40-4cf4-8807-e912bbbf7240_3.4.5_SetKeyType.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvNmM3N2YxMTctMWE0MC00Y2Y0LTg4MDctZTkxMmJiYmY3MjQwXzMuNC41X1NldEtleVR5cGUucG5n?x-oss-process=image/format,png)
 
  **6.**   保存游戏，然后在“播放模式”下进行测试。当医生离锁足够近时，将显示其关联钥匙的名称：
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/e2d07f84-a7fb-4859-acc7-05f59d171950_3.4.6_LockGameplay.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvZTJkMDdmODQtYTdmYi00ODU5LWFjYzctMDVmNTlkMTcxOTUwXzMuNC42X0xvY2tHYW1lcGxheS5wbmc?x-oss-process=image/format,png)
 
 领取钥匙后，他们就可以穿过门了。 
 
@@ -574,7 +569,7 @@ Unity编辑器的基本熟练
 
 **2.**   选择**GermOBlaster** 预制件。通过按**Ctrl + D** 进行复制以进行复制
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/3e6b3d0e-1159-4d7b-b932-3bad7e38cfd0_4.2.2_DuplicatedWeapon.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvM2U2YjNkMGUtMTE1OS00ZDdiLWI5MzItM2JhZDdlMzhjZmQwXzQuMi4yX0R1cGxpY2F0ZWRXZWFwb24ucG5n?x-oss-process=image/format,png)
 
  **3.**   单击副本名称，或选择它，然后按**F2** 。给新武器起一个不同的名字。 
 
@@ -586,11 +581,11 @@ Unity编辑器的基本熟练
 
 **1.**   双击新武器，或在选择副本后单击“检查器”窗口中的“ **打开预制”** 按钮。Unity Editor现在处于“预制模式”，并将在“场景”视图中显示武器
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/0a2eface-98ed-4134-b780-20f444353c96_4.2.4_PrefabMode.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvMGEyZWZhY2UtOThlZC00MTM0LWI3ODAtMjBmNDQ0MzUzYzk2XzQuMi40X1ByZWZhYk1vZGUucG5n?x-oss-process=image/format,png)
 
  **2.**   在检查器中，找到“ **武器”** 组件。这是为此Creator Kit编写的自定义脚本，具有许多不同的可配置值
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190509/learn/images/bfc69fa1-b303-478a-81dc-193fefb493af_4.3.2_WeaponHighlightedFields.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwOS9sZWFybi9pbWFnZXMvYmZjNjlmYTEtYjMwMy00NzhhLTgxZGMtMTkzZmVmYjQ5M2FmXzQuMy4yX1dlYXBvbkhpZ2hsaWdodGVkRmllbGRzLnBuZw?x-oss-process=image/format,png)
 
  **3.**   使用下拉菜单将**触发器类型**更改为**手动**。现在，仅在按下扳机时，武器才会发射一次，而不是尽可能快地发射。 
 
@@ -602,7 +597,7 @@ Unity编辑器的基本熟练
 
 **7.**   通过单击“ **场景**”视图左上角的“场景” 退出“预制模式”
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/56e40abd-7295-4174-a480-7468acd87338_4.3.7_ScenesButton.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvNTZlNDBhYmQtNzI5NS00MTc0LWE0ODAtNzQ2OGFjZDg3MzM4XzQuMy43X1NjZW5lc0J1dHRvbi5wbmc?x-oss-process=image/format,png)
 
 
 
@@ -620,7 +615,7 @@ Unity编辑器的基本熟练
 
 **3.**   选择名称左侧的小箭头，展开“ **开始武器”** 条目
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/2a1ffb50-cca9-4c1b-8f04-2bd908d7a217_4.4.3_StartingWeapons.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvMmExZmZiNTAtY2NhOS00YzFiLThmMDQtMmJkOTA4ZDdhMjE3XzQuNC4zX1N0YXJ0aW5nV2VhcG9ucy5wbmc?x-oss-process=image/format,png)
 
  **4.**   将**大小**从3 更改为4。这将在级别开始时为玩家提供四个武器 
 
@@ -642,21 +637,21 @@ Unity编辑器的基本熟练
 
  **2.**   选中GameObject，然后转到“ **检查器”窗口。**使用标题中的文本字段将其重命名为“ **LevelEnd** ”。 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/851c67ec-557d-4cd2-8ce1-38918b50ce93_5.2.2_LevelEnd.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvODUxYzY3ZWMtNTU3ZC00Y2QyLThjZTEtMzg5MThiNTBjZTkzXzUuMi4yX0xldmVsRW5kLnBuZw?x-oss-process=image/format,png)
 
  **3.**   接下来，您需要确保LevelEnd在关卡的中间。单击“ **变换”** 组件左上方的小齿轮图标。选择**重置**。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/ca851b55-0b5a-4cdf-a9b8-af06dccafca1_5.2.3_Reset.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvY2E4NTFiNTUtMGI1YS00Y2RmLWE5YjgtYWYwNmRjY2FmY2ExXzUuMi4zX1Jlc2V0LnBuZw?x-oss-process=image/format,png)
 
  **4.**   将光标移到“场景”视图上，然后按键盘上的**F** 以将焦点对准LevelEnd GameObject。  
 
 **5.**   在**检查器中**，单击“ **添加组件”** 按钮。搜索“ **Box Collider** ”，然后将此组件添加到LevelEnd。 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/3ace12f5-75a7-40ce-9825-49b87e4d25bb_5.2.5_AddBoxCollider.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvM2FjZTEyZjUtNzVhNy00MGNlLTk4MjUtNDliODdlNGQyNWJiXzUuMi41X0FkZEJveENvbGxpZGVyLnBuZw?x-oss-process=image/format,png)
 
  **6.**   一个绿色的线框框将出现在“场景”视图中，表明LevelEnd具有对撞机。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/ea27034f-4353-4c2a-a419-3a67de72f237_5.2.6_LevelEndColliderSceneV.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvZWEyNzAzNGYtNDM1My00YzJhLWE0MTktM2E2N2RlNzJmMjM3XzUuMi42X0xldmVsRW5kQ29sbGlkZXJTY2VuZVYucG5n?x-oss-process=image/format,png)
 
 
 
@@ -668,11 +663,11 @@ Unity编辑器的基本熟练
 
 **7.**   可以使用Box Collider组件中的**Size** 参数来调整Collider的**大小**。一次将鼠标悬停在一个轴上，然后单击并向右或向左拖动以增加或减小Collider的大小。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/1dbe7fb7-94c2-468c-b67f-ac467160ff59_5.2.7_1_SizeProperty.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvMWRiZTdmYjctOTRjMi00NjhjLWI2N2YtYWM0NjcxNjBmZjU5XzUuMi43XzFfU2l6ZVByb3BlcnR5LnBuZw?x-oss-process=image/format,png)
 
 LevelEnd GameObject已移动到房间的尽头。对撞机已调整大小，以填充大部分可用空间。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/bd875660-5149-4717-aacc-e663b616b61d_5.2.7_2_SceneCollider.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvYmQ4NzU2NjAtNTE0OS00NzE3LWFhY2MtZTY2M2I2MTZiNjFkXzUuMi43XzJfU2NlbmVDb2xsaWRlci5wbmc?x-oss-process=image/format,png)
 
  **8.**   保存您的更改。
 
@@ -688,11 +683,11 @@ LevelEnd GameObject已移动到房间的尽头。对撞机已调整大小，以�
 
 **1.**   在检查器中，转到**Box Collider** 组件**。**启用**是触发器**复选框。 
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/1051d8d9-3ecb-466e-8954-228430eb4034_5.3.1_IsTrigger.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvMTA1MWQ4ZDktM2VjYi00NjZlLTg5NTQtMjI4NDMwZWI0MDM0XzUuMy4xX0lzVHJpZ2dlci5wbmc?x-oss-process=image/format,png)
 
  **2.**   单击**添加组件**按钮。搜索“ **End Checkpoint** ”，然后将此组件添加到LevelEnd。
 
-![img](https://connect-cdn-prd-cn.unitychina.cn/20190502/learn/images/fb7dd7ad-1a15-43e4-80c2-4e7ee5be920c_5.3.2_EndCheckpoint.png)
+![img](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jb25uZWN0LWNkbi1wcmQtY24udW5pdHljaGluYS5jbi8yMDE5MDUwMi9sZWFybi9pbWFnZXMvZmI3ZGQ3YWQtMWExNS00M2U0LTgwYzItNGU3ZWU1YmU5MjBjXzUuMy4yX0VuZENoZWNrcG9pbnQucG5n?x-oss-process=image/format,png)
 
  **3.**   保存更改。现在，按“ **播放”** 并通过移动到放置在关卡中的Box Collider中来测试触发器。当进入该空间时，游戏将结束并显示结果屏幕
 
@@ -742,7 +737,7 @@ LevelEnd GameObject已移动到房间的尽头。对撞机已调整大小，以�
 
 从UI界面切换到游戏中，在Button上挂载点击事件，此代码为`SceneManage`
 
-![image-20191110204329112](C:\Users\j2726\AppData\Roaming\Typora\typora-user-images\image-20191110204329112.png)
+[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-d06DzvMj-1573576742172)(C:\Users\j2726\AppData\Roaming\Typora\typora-user-images\image-20191110204329112.png)]
 
 - 调整图片大小，按钮大小，文本文字大小
 
@@ -811,12 +806,4 @@ LevelEnd GameObject已移动到房间的尽头。对撞机已调整大小，以�
 通过本次3D游戏的开发和对Unity3D软件的熟悉，对于我们今后对于3D游戏的进一步开发起着非常大的促进作用。
 
  
-
-# 第6章 小组分工
-
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191110210920406.png)
-
- 
-
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191110210938892.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzIzMjk1NQ==,size_16,color_FFFFFF,t_70)
 
